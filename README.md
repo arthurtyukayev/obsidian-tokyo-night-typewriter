@@ -2,8 +2,6 @@
 
 Tokyo Night Typewriter is an [Obsidian](https://www.obsidian.md) October-winning theme designed for a focused writing experience.
 
-![cover](cover.jpg)
-
 ## Features
 
 - Careful choice in fonts; monospace in the editor and semi-proportional in preview and UI

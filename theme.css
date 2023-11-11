@@ -265,12 +265,12 @@ body {
   --scrollbar-active-thumb-bg: var(--bg_dark);
   --scrollbar-width: 0px;
 
-  --h1-color: var(--red);
+  --h1-color: var(--magenta);
   --h2-color: var(--yellow);
   --h3-color: var(--green);
-  --h4-color: var(--cyan);
+  --h4-color: var(--red);
   --h5-color: var(--blue);
-  --h6-color: var(--magenta);
+  --h6-color: var(--cyan);
 
   --border-width: 2px;
 
@@ -326,7 +326,7 @@ body {
   --graph-node-attachment: var(--blue);
 
   --tab-text-color-focused-active: rgba(var(--red_x), 0.8);
-  --tab-text-color-focused-active-current: var(--red);
+  --tab-text-color-focused-active-current: var(--magenta);
 
   --modal-border-color: var(--bg_highlight);
   --prompt-border-color: var(--bg_highlight);
@@ -339,6 +339,7 @@ body {
   --embed-padding: 1.5rem 1.5rem 0.5rem;
 
   --canvas-color: var(--bg_highlight_x);
+
 
   --toggle-thumb-color: var(--bg);
 }
