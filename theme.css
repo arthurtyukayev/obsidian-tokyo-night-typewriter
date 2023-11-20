@@ -584,6 +584,14 @@ div.todo-item-view-toolbar-item.active svg {
   fill: var(--text-accent);
 }
 
+/* scrollbars */
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-scrollbar:horizontal {
+  height: 0;
+}
+
 /* +++ STYLE SETTINGS by @mgmeyers */
 
 /* @settings
